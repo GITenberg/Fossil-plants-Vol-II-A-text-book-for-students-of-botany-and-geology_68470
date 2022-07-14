@@ -1,0 +1,30 @@
+_repo: Fossil-plants-Vol-II-A-text-book-for-students-of-botany-and-geology_68470
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seward, A. C. (Albert Charles)
+    alias: Seward, Albert Charles, Sir
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '749'
+    url: http://www.gutenberg.org/2009/agents/749
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Seward
+description: ''
+gutenberg_issued: '2022-07-07'
+identifiers:
+  gutenberg: '68470'
+language: en
+pgterms:marc904: http://objects.library.uu.nl/reader/index.php?obj=1874-362555&lan=en#page//14/22/77/1422776005225301857984376064593574312.jpg/mode/1up
+pgterms:marc905: 20200511114649seward
+pgterms:marc906: '1910'
+pgterms:marc907: en
+production_note: Peter Becker, Robert Tonsing, Utrecht University and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: en :Cambridge University Press,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fossil plants, Vol. II: A text-book for students of botany and geology'
+url: http://www.gutenberg.org/ebooks/68470
